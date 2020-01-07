@@ -16,7 +16,7 @@ exports.config = {
   suites: {
     shield: 'suite1_specfile.js',
     spartan: 'suite2_specfile.js'
-  }
+  },
     
 
   // Options to be passed to Jasmine.
